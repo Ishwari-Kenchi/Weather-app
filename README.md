@@ -4,6 +4,7 @@
 A modern and interactive **Weather Application** built using **HTML, CSS, and Vanilla JavaScript** that fetches real-time weather data using the **OpenWeatherMap API**.
 
 The app allows users to search for any city worldwide and view accurate weather information instantly.
+Link - https://ishwari-kenchi.github.io/Weather-app/
 
 ---
 
