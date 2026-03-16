@@ -35,8 +35,7 @@ The background color changes automatically based on the weather condition:
 This makes the app visually interactive and improves the user experience.
 
 ---
-Note: This project uses the OpenWeatherMap API for fetching weather data. 
-An API key is included for demonstration purposes.
+
 
 ## 🧰 Technologies Used
 
@@ -48,3 +47,5 @@ An API key is included for demonstration purposes.
 ---
 
 ## 📂 Project Structure
+Note: This project uses the OpenWeatherMap API for fetching weather data. 
+An API key is included for demonstration purposes.
